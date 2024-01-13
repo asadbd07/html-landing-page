@@ -16,6 +16,19 @@ p {
   font-size: 16px;
   color: #e5e7eb;
 }
+.btn-primary {
+  background-color: #d3391d;
+  padding: 10 25px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background-color: #b6422e;
+}
 .flex {
   display: flex;
   flex: 1;
