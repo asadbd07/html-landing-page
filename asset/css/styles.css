@@ -108,8 +108,6 @@ p {
   background-color: #e5e7eb;
   padding: 100px;
   height: 200px;
-  justify-content: center;
-  margin: 0 auto;
   text-align: center;
 }
 
@@ -122,4 +120,29 @@ p {
   float: right;
   font-size: 26px;
   font-weight: bolder;
+}
+
+.cta {
+  padding: 100px;
+  height: 100px;
+}
+
+.cta-bg {
+  background-color: #d3391d;
+  border-radius: 5px;
+}
+.cta-content {
+  padding: 15 90px;
+  color: #ffffff;
+}
+.cta-text h2 {
+  color: #ffffff;
+  margin-bottom: 0;
+}
+.cta-text p {
+  color: #ffffff;
+}
+
+.cta-button button {
+  border: 2px solid #ffffff;
 }
